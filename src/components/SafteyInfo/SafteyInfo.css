@@ -1,0 +1,21 @@
+.SafteyInfo {
+    margin-right: 5%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    padding: 1rem;
+    position: relative;
+    top: 2vh;
+}
+
+h6 {
+    margin: 5vh 0 3vh 0;
+}
+.safteyLinks{
+    color:black;
+    font-weight: bold;
+}
+.safteyLinks:hover{
+    color: rgb(207, 59, 96);
+    font-weight: bold;
+}

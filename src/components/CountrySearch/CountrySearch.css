@@ -1,0 +1,24 @@
+.searchbar {
+    
+    position: relative;
+    bottom: 1vh;
+    
+}
+
+input:focus{
+    border-color: red;
+}
+input{
+    background-color: rgb(207, 59, 96);
+    
+}
+
+.SearchInfoBox{
+    position: relative;
+    bottom: 4vh;
+}
+
+#Submit-button{
+    border: none;
+    height: 30px;
+}
