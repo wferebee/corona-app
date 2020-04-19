@@ -1,2 +1,2 @@
 ## LIVE LINK
-* https://wferebee.github.io/coronavirus/
+* https://wferebee.github.io/corona-app/
