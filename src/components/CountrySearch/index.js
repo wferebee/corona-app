@@ -102,7 +102,8 @@ render () {
               <input type="text" 
               style={{width: 159, height: 30, backgroundColor: "white", color:  "rgb(209, 209, 105)", borderColor: "black", borderWidth: 2}}
               onKeyUp={this.handleEnter} 
-              onChange={this.updateInput}></input>
+              onChange={this.updateInput}
+              placeholder="Select A Country"></input>
               <input type="submit" value="Submit" id="Submit-button"/>
             </form>
           </div>
